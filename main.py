@@ -1,4 +1,4 @@
-class MLOPS_DSN:
+class StudentsInMLOps:
     def __init__(self):
         self.total_strength = 0
 

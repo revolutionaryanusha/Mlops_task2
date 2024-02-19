@@ -1,5 +1,5 @@
 import pytest
-from main import MLOPS_DSN
+from main import StudentsInMLOps
 
 def test_enrollStudents():
     obj = StudentsInMLOps()
@@ -14,4 +14,4 @@ def test_dropStudents():
 
 def test_getClassName():
     obj = StudentsInMLOps()
-    assert obj.getClassName() == "MLOPS_DSN"
+    assert obj.getClassName() == "StudentsInMLOps"
