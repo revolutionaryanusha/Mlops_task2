@@ -1,5 +1,5 @@
 import pytest
-from main import StudentsInMLOps
+from main import MLOPS_DSN
 
 def test_enrollStudents():
     obj = StudentsInMLOps()
