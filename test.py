@@ -14,4 +14,4 @@ def test_dropStudents():
 
 def test_getClassName():
     obj = StudentsInMLOps()
-    assert obj.getClassName() == "StudentsInMLOps"
+    assert obj.getClassName() == "MLOPS_DSN"
