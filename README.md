@@ -1,3 +1,3 @@
 # Mlops_task2
-this is practice MLOPS task 
-chnaging file to check jenkin testing 
+this is a practice MLOPS task 
+changing file to check Jenkin testing 
